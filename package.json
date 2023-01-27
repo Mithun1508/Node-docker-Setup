@@ -1,0 +1,19 @@
+{
+  "name": "refetch-interval",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.21",
+    "body-parser": "^1.20.1",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2"
+  },
+  "description": "To run this example:",
+  "keywords": [],
+  "author": "Mithun"
+}
